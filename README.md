@@ -1,1 +1,1 @@
-# Background-attachment-navigator.userAgent
+Background attachment is messed up in IE and Microsoft Edge.
